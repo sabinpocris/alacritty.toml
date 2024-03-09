@@ -1,35 +1,35 @@
 [font]
 normal = { family = "Inconsolata Nerd Font Mono", style = "Regular" }
-size = 15
+size = 20
 
 [window]
 dimensions = { columns = 95, lines = 27 }
 
 [colors]
+# Carbon Fox
 # Default colors
 [colors.primary]
-background = '#272822'
-foreground = '#fdfff1'
+background = '#161616'
+foreground = '#f2f4f8'
 
 # Normal colors
 [colors.normal]
-black   = '#161613'
-red     = '#f92672'
-green   = '#a6e22e'
-yellow  = '#e6db74'
-blue    = '#66d9ef'
-magenta = '#ae81ff'
-cyan    = '#66d9ef'
-white   = '#fdfff1'
+black   = '#282828'
+red     = '#ee5396'
+green   = '#25be6a'
+yellow  = '#08bdba'
+blue    = '#78a9ff'
+magenta = '#be95ff'
+cyan    = '#33b1ff'
+white   = '#dfdfe0'
 
-# Normal colors
+# Bright colors
 [colors.bright]
-black   = '#161613'
-red     = '#f92672'
-green   = '#a6e22e'
-yellow  = '#e6db74'
-blue    = '#66d9ef'
-magenta = '#ae81ff'
-cyan    = '#66d9ef'
-white   = '#fdfff1'
-
+black   = '#484848'
+red     = '#f16da6'
+green   = '#46c880'
+yellow  = '#2dc7c4'
+blue    = '#8cb6ff'
+magenta = '#c8a5ff'
+cyan    = '#52bdff'
+white   = '#e4e4e5'
