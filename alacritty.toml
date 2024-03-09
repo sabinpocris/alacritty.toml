@@ -4,6 +4,9 @@ size = 20
 
 [window]
 dimensions = { columns = 95, lines = 27 }
+padding = { x = 10, y = 10}
+dynamic_padding = true
+
 
 [colors]
 # Carbon Fox
