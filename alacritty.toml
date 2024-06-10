@@ -1,51 +1,35 @@
 [font]
-normal = { family = "Inconsolata Nerd Font Mono", style = "Regular" }
-size = 20
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+size = 17
 
 [window]
 dimensions = { columns = 95, lines = 27 }
 padding = { x = 10, y = 10}
 dynamic_padding = true
 
+# Monokai
 [colors]
-# TokyoNight Alacritty Colors
-# Default colors
 [colors.primary]
-background = '#1a1b26'
-foreground = '#c0caf5'
+background = "#272822"
+foreground = "#f8f8f2"
 
-[colors.cursor]
-cursor = '#c0caf5'
-text = '#1a1b26'
-
-# Normal colors
 [colors.normal]
-black = '#15161e'
-red = '#f7768e'
-green = '#9ece6a'
-yellow = '#e0af68'
-blue = '#7aa2f7'
-magenta = '#bb9af7'
-cyan = '#7dcfff'
-white = '#a9b1d6'
+black = "#272822"
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#f4bf75"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#a1efe4"
+white = "#f8f8f2"
 
-# Bright colors
 [colors.bright]
-black = '#414868'
-red = '#f7768e'
-green = '#9ece6a'
-yellow = '#e0af68'
-blue = '#7aa2f7'
-magenta = '#bb9af7'
-cyan = '#7dcfff'
-white = '#c0caf5'
-
-# Indexed Colors
-[[colors.indexed_colors]]
-index = 16
-color = '#ff9e64'
-
-[[colors.indexed_colors]]
-index = 17
-color = '#db4b4b'
+black = "#75715e"
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#f4bf75"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#a1efe4"
+white = "#f9f8f5"
 
